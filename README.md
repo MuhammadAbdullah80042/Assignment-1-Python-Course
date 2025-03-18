@@ -1,7 +1,7 @@
 This is the Assignment 1 of the course Python with AI. 
 Includes:
 Variables & Data Types
-Lists
+Lists 
 Tuples
 Dictionaries
 Sets - Theoretical Questions

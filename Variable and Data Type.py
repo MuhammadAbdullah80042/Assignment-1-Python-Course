@@ -1,7 +1,6 @@
 # VARIABLE AND DATA TYPES
 
 # 1. Declare three variables: an integer, a float, and a string. Print their types.
-
 integer = 1
 float = 1.2
 string = "My name is Abdullah"
